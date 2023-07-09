@@ -169,3 +169,31 @@ main section{
   text-align: center;
 }
 
+/* footer related style*/
+
+}
+footer{
+  display: flex;
+  gap: 100px;
+  background: #FFF8F3;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
+.footer-column{
+  width: 50%;
+}
+.social-links a{
+  margin-right: 24px;
+}
+.contact input[type="text"], .contact input[type="email"]
+.contact,input,textarea{
+  display: block;
+  margin-bottom: 20px;
+  padding: 18px 35px;
+  color: #757575;
+  border: 0;
+  border-radius: 5px;
+  background-color: #FFF;
+
+
+}
