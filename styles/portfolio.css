@@ -92,6 +92,9 @@ main{
   height: 550px;
   margin: 0 auto;
 }
+main section{
+  /*margin-top: 130px;
+}
 
 
 /*about section style */
@@ -134,3 +137,11 @@ main{
   
   
 }
+/*Resume style section */
+.resume-column-title{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  
+}
+
